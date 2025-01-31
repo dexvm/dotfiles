@@ -8,6 +8,6 @@ node = "22" # renovate: datasource=node-version
 sops = "3.9.4" # renovate: repository=getsops/sops
 starship = "1.22.1" # renovate: repository=starship/starship
 stern = "1.32.0" # renovate: repository=stern/stern
-usage = "1.7.4" # renovate: repository=jdx/usage
+usage = "2.0.3" # renovate: repository=jdx/usage
 uv = "0.5.26" # renovate: repository=astral-sh/uv
 zoxide = "0.9.6" # renovate: repository=ajeetdsouza/zoxide
